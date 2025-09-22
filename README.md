@@ -44,9 +44,11 @@ The notebook compares the four sentiment analysis approaches in terms of accurac
 
 ##### This project demonstrates the strengths and weaknesses of different sentiment analysis techniques. Fine-tuned DistilBERT emerges as the most effective model, balancing computational efficiency with high accuracy
 
-##### Contact
+##### Contact:
 For any questions or feedback, please contact Florian Plaku at florian.plaku@student.hu-berlin.de.
 - Author: Florian Plaku
 - GitHub: https://github.com/Floriplaku
 - Email: florian.plaku@student.hu-berlin.de
 - LinkedIn:https://www.linkedin.com/in/florian-plaku-229891121/
+
+
